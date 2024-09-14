@@ -1,0 +1,16 @@
+{
+    "Title": "holiday_impersonation_phishing",
+    "Threshold":1.49,
+    "URL_Check": [true, 1, 0],
+    "Phone_Number_Check": [true, 1, 0],
+    "KeywordSet": [
+        ["추석", 1.1, 0],
+        ["한가위", 1.2, 0],
+        ["모바일", 1.3, 0],
+        ["상품권", 1.4, 0],
+        ["으로", 1.1, 0],
+        ["라도", 1.2, 0],
+        ["영상", 1.5, 0],
+        ["즐거운", 1.1, 0]
+    ]
+}
